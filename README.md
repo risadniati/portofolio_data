@@ -11,3 +11,9 @@ pip install numpy pandas scipy matplotlib seaborn jupyter streamlit babel
 ```
 streamlit run dashboard.py
 ```
+
+## Link streamlit cloud
+https://portofoliorisa.streamlit.app/
+
+## Screenshot 
+![image](https://github.com/risadniati/portofolio_data/assets/152244838/160e7c1e-ae50-4e7c-b3eb-6ca6cb1a0c29)
