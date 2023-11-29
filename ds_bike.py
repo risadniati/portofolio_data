@@ -1,8 +1,8 @@
 # 1. Mempersiapkan DataFrame yang telah diproses menggunakan Google Colab
-pip install matplotlib
+
 ## Import seluruh library yang diperlukan 
 import pandas as pd
-import matplotlib.pyplot as plt
+# import matplotlib.pyplot as plt
 import seaborn as sns 
 import streamlit as st
 
